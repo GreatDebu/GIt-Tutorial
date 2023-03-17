@@ -1,1 +1,3 @@
 My name is Amit and this file is created for the git tutorial session organized by GDSC IIIT Kalyani
+
+We were provided git cheatsheets too. 
